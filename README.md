@@ -8,4 +8,4 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albin-martinsson-b80a97277/) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )-->
+<!--Proudly created with GPRM ( https://gprm.itsvg.in )-->
